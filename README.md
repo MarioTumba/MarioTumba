@@ -6,4 +6,7 @@ Escribir sobre nosotros...
 
 ## contac me
 
-Hacer el cierre de la presentación, invitando a contactar.
+Hacer el cierre de la presentación, invitando a contactar
+
+## Hobbies
+- Dancing: ...
