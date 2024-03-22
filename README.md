@@ -6,7 +6,11 @@ Escribir sobre nosotros...
 
 ## contac me
 
-Hacer el cierre de la presentación, invitando a contactar.
+
+Hacer el cierre de la presentación, invitando a contactar
+
+## Hobbies
+- Dancing: ...
 
 ## Skills
 - Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
