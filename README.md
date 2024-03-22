@@ -6,12 +6,10 @@ Escribir sobre nosotros...
 
 ## contac me
 
-<<<<<<< HEAD
 Hacer el cierre de la presentación, invitando a contactar
 
 ## Hobbies
 - Dancing: ...
-=======
 Hacer el cierre de la presentación, invitando a contactar.
 
 ## Skills
@@ -21,4 +19,3 @@ Hacer el cierre de la presentación, invitando a contactar.
 - Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
 - Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
 
->>>>>>> 195d1ec5bc1150c29505c897f778c06658eea284
